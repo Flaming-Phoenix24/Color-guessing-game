@@ -15,6 +15,20 @@ An interactive and fun RGB color-matching game built with **HTML**, **CSS**, and
 - 🔁 **Game Reset Functionality**: Board resets automatically after a correct guess or manually.
 - 🧠 **Enhances RGB Color Recognition Skills**
 
+## 🖼️ Screenshots
+
+### 🟢 Easy Mode (6 Options)
+![home page](https://github.com/user-attachments/assets/0d649636-a239-4b33-81c2-fa5561b6b704)
+
+
+### 🔴 Hard Mode (9 Options)
+![hard one ](https://github.com/user-attachments/assets/59e39834-a7cc-4c85-bf6e-ae2abbfb057d)
+
+
+### ✅ Correct Answer Selected
+![correct ans](https://github.com/user-attachments/assets/f98c0224-ce9e-4cca-80c5-79087567936d)
+
+
 ## 🛠️ Built With  
 - **HTML** – Structure  
 - **CSS** – Styling  
